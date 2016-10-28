@@ -1,0 +1,12 @@
+# Site settings
+title: 28 Ottobre 2016
+tag_text: limulo.net @ IED Milano
+description: description.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
+
+
