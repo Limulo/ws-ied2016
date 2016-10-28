@@ -10,6 +10,8 @@ layout: default
 
 ![gioco2](assets/soundface/giocatori-3.jpg)
 
+[slides](http://www.limulo.net/resources/electropark-2013/Electropark-2013-slides.pdf)
+
 <div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0xcAOFFxWuc" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -17,6 +19,13 @@ layout: default
 <div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tiX9etAAEcI" frameborder="0" allowfullscreen></iframe>
 </div>
+
+### Strumenti liberi
+
+* [link](https://github.com/ariutti/book-test/blob/master/chapters/01-chapter1.md)
+* [slide](assets/bignami.pdf)
+
+
 
 ## Linux Day - front desk
 
@@ -76,8 +85,6 @@ Ecco il link al [sito ufficiale](https://processing.org/) e un velocissimo tutor
 ![robot A](assets/chaoticrobots/a.jpg)
 
 ![robot B](assets/chaoticrobots/b.jpg)
-
-![interfaccia](assets/chaoticrobots/interfaccia.jpg)
 
 <div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SDqNaqEHwzE" frameborder="0" allowfullscreen></iframe>
