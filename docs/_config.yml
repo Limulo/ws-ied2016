@@ -1,7 +1,7 @@
 # Site settings
-title: 28 Ottobre 2016
-tag_text: limulo.net @ IED Milano
-description: description.
+title: limulo.net @ IED Milano
+tag_text: limulo.net @ IED Milano - 28 Ottobre 2016
+description: limulo.net propone alcuni spunti e riferimenti rigurado sound design, interaction design e physical computing.
 
 # Build settings
 markdown: kramdown
