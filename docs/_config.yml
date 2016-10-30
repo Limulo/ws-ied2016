@@ -9,4 +9,6 @@ exclude: ["README.md"]
 sass:
   style: compressed
 
+comments: true
+
 
